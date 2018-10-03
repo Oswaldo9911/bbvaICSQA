@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="io.sikusqa.tests.SampleTest" duration-ms="178437" started-at="2018-08-28T22:09:53Z" finished-at="2018-08-28T22:12:52Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="178437" started-at="2018-08-28T22:09:53Z" finished-at="2018-08-28T22:12:52Z">
+      <class name="io.sikusqa.tests.SampleTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:io.sikusqa.tests.SampleTest@1810399e]" name="setUp" is-config="true" duration-ms="19102" started-at="2018-08-28T17:09:53Z" finished-at="2018-08-28T17:10:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSampleScenarioOfClicking()[pri:0, instance:io.sikusqa.tests.SampleTest@1810399e]" name="testSampleScenarioOfClicking" duration-ms="159320" started-at="2018-08-28T17:10:12Z" finished-at="2018-08-28T17:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSampleScenarioOfClicking -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:io.sikusqa.tests.SampleTest@1810399e]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-08-28T17:12:52Z" finished-at="2018-08-28T17:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- io.sikusqa.tests.SampleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- io.sikusqa.tests.SampleTest -->
+</testng-results>

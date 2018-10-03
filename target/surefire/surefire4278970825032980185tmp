@@ -1,0 +1,7 @@
+#surefire
+#Tue Aug 21 15:06:43 COT 2018
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\Fabio Betancourt\\Documents\\NetBeansProjects\\sikuAppiumSQA
+localRepository=C\:\\Users\\Fabio Betancourt\\.m2\\repository
+basedir=C\:\\Users\\Fabio Betancourt\\Documents\\NetBeansProjects\\sikuAppiumSQA
+test=io.sikuappium.tests.SampleTest

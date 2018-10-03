@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [io.sikusqa.tests.SampleTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="io.sikusqa.tests.SampleTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testSampleScenarioOfClicking"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- io.sikusqa.tests.SampleTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [io.sikusqa.tests.SampleTest] -->

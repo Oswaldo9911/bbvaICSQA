@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [io.sikuappium.tests.SampleTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="io.sikuappium.tests.SampleTest">
+        <methods>
+          <include name="testSampleScenarioOfClicking"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- io.sikuappium.tests.SampleTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [io.sikuappium.tests.SampleTest] -->
