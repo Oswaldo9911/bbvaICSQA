@@ -26,7 +26,7 @@ public class CapabilitiesFactory {
         //capabilities.setCapability("appActivity", "com.gorillalogic.monkeytalk.demo1.RootActivity");
         
         capabilities.setCapability("platformVersion", "5.1");
-        capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "42002459cac6b300");
+        capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "emulator-5554");
         // Para habilitar Teclado Android
         capabilities.setCapability("unicodeKeyboard", "true");
         capabilities.setCapability("resetKeyboard", "true");
