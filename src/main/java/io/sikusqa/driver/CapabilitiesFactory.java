@@ -17,10 +17,10 @@ public class CapabilitiesFactory {
         capabilities.setCapability("platformName", "Android");
         
         // Por Apk
-        //capabilities.setCapability(MobileCapabilityType.APP, System.getProperty("user.dir") + "\\app\\BBVA CO 6.1.2.40838.apk");
+        capabilities.setCapability(MobileCapabilityType.APP, System.getProperty("user.dir") + "\\app\\BBVA CO 6.1.2.40838.apk");
         // Por paquete y Actividad
-        capabilities.setCapability("appPackage", "co.com.bbva.mb");
-        capabilities.setCapability("appActivity", "co.com.bbva.mb.VTSpecialStartActivity");
+//        capabilities.setCapability("appPackage", "co.com.bbva.mb");
+//        capabilities.setCapability("appActivity", "co.com.bbva.mb.VTSpecialStartActivity");
         // MonkeYTalk
         //capabilities.setCapability("appPackage", "com.gorillalogic.monkeytalk.demo1");
         //capabilities.setCapability("appActivity", "com.gorillalogic.monkeytalk.demo1.RootActivity");
